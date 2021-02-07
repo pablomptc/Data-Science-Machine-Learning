@@ -1,4 +1,4 @@
-# Data-Science---Machine-Learning
+# Data-Science-Machine-Learning
 This is the code used from the beggining until the final of the prediction. I have tried to explain every step in the code in order to help 
 other people to understand the process.
 
